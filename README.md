@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @devlamconstructie
+- 👋 Hi, I’m @de_vlam_interactie
 - 👀 I’m interested in UX and UI design, Wordpress and programming in PHP and JS
 - 🌱 I’m currently learning all of the above. 
 - 💞️ I’m looking to collaborate on a project with interesting user interactions.
